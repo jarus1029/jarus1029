@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suraj
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning web developement and CP is my first love.
+- 🌱 I’m currently learning web developement and involved in cp as well.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
